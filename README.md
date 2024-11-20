@@ -54,5 +54,4 @@ int main() {
     return 0;
 }
 ```
-
-## Projet réalisé par JBmader.
+Projet réalisé par JBmader.
